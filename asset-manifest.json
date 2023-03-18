@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/salimReact/static/css/main.4746a2f3.css",
-    "main.js": "/salimReact/static/js/main.ea46f473.js",
-    "static/media/RostamiCV.pdf": "/salimReact/static/media/RostamiCV.c231359121bf5dd160e3.pdf",
+    "main.js": "/salimReact/static/js/main.c486b390.js",
+    "static/media/MHajizadehCV.pdf": "/salimReact/static/media/MHajizadehCV.1eedba7ee88077ad536a.pdf",
     "static/media/aboutme3.jpeg": "/salimReact/static/media/aboutme3.9414da80f4995f002da3.jpeg",
     "static/media/me2.png": "/salimReact/static/media/me2.1bbe9153d09322b70c91.png",
     "static/media/logo2.png": "/salimReact/static/media/logo2.b53b39f564fe24aaae60.png",
@@ -10,10 +10,10 @@
     "static/media/close.svg": "/salimReact/static/media/close.a591c5268e7cbcfeb569c6afea5745fc.svg",
     "static/media/open.svg": "/salimReact/static/media/open.e6bd41ec79183186fdb132e92b58c1de.svg",
     "main.4746a2f3.css.map": "/salimReact/static/css/main.4746a2f3.css.map",
-    "main.ea46f473.js.map": "/salimReact/static/js/main.ea46f473.js.map"
+    "main.c486b390.js.map": "/salimReact/static/js/main.c486b390.js.map"
   },
   "entrypoints": [
     "static/css/main.4746a2f3.css",
-    "static/js/main.ea46f473.js"
+    "static/js/main.c486b390.js"
   ]
 }
