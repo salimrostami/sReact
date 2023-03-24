@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.4746a2f3.css",
-    "main.js": "/static/js/main.4d41eda6.js",
-    "static/media/MHajizadehCV.pdf": "/static/media/MHajizadehCV.1eedba7ee88077ad536a.pdf",
-    "static/media/aboutMina.jpeg": "/static/media/aboutMina.9414da80f4995f002da3.jpeg",
-    "static/media/mina.png": "/static/media/mina.1bbe9153d09322b70c91.png",
-    "static/media/logoMinaWhite.png": "/static/media/logoMinaWhite.b53b39f564fe24aaae60.png",
+    "main.js": "/static/js/main.dacc782f.js",
+    "static/media/aboutSalim.jpeg": "/static/media/aboutSalim.7e563860c0d73364b29e.jpeg",
+    "static/media/RostamiCV.pdf": "/static/media/RostamiCV.c231359121bf5dd160e3.pdf",
+    "static/media/salim.png": "/static/media/salim.08674df2198487cfba16.png",
+    "static/media/logoSalim.png": "/static/media/logoSalim.52ef103b738ac6230657.png",
     "index.html": "/index.html",
     "static/media/close.svg": "/static/media/close.a591c5268e7cbcfeb569c6afea5745fc.svg",
     "static/media/open.svg": "/static/media/open.e6bd41ec79183186fdb132e92b58c1de.svg",
     "main.4746a2f3.css.map": "/static/css/main.4746a2f3.css.map",
-    "main.4d41eda6.js.map": "/static/js/main.4d41eda6.js.map"
+    "main.dacc782f.js.map": "/static/js/main.dacc782f.js.map"
   },
   "entrypoints": [
     "static/css/main.4746a2f3.css",
-    "static/js/main.4d41eda6.js"
+    "static/js/main.dacc782f.js"
   ]
 }
