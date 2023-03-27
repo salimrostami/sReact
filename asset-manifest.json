@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4e1307ee.css",
-    "main.js": "/static/js/main.7603fb26.js",
+    "main.js": "/static/js/main.a31ac9f5.js",
     "static/media/aboutSalim.jpeg": "/static/media/aboutSalim.7e563860c0d73364b29e.jpeg",
     "static/media/RostamiCV.pdf": "/static/media/RostamiCV.c231359121bf5dd160e3.pdf",
     "static/media/salim.png": "/static/media/salim.08674df2198487cfba16.png",
@@ -10,10 +10,10 @@
     "static/media/close.svg": "/static/media/close.a591c5268e7cbcfeb569c6afea5745fc.svg",
     "static/media/open.svg": "/static/media/open.e6bd41ec79183186fdb132e92b58c1de.svg",
     "main.4e1307ee.css.map": "/static/css/main.4e1307ee.css.map",
-    "main.7603fb26.js.map": "/static/js/main.7603fb26.js.map"
+    "main.a31ac9f5.js.map": "/static/js/main.a31ac9f5.js.map"
   },
   "entrypoints": [
     "static/css/main.4e1307ee.css",
-    "static/js/main.7603fb26.js"
+    "static/js/main.a31ac9f5.js"
   ]
 }
