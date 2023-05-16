@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.ebef54c6.css",
-    "main.js": "/static/js/main.f050f4bc.js",
+    "main.js": "/static/js/main.1b94e454.js",
     "static/media/aboutSalim.jpeg": "/static/media/aboutSalim.7e563860c0d73364b29e.jpeg",
-    "static/media/RostamiCV.pdf": "/static/media/RostamiCV.c231359121bf5dd160e3.pdf",
+    "static/media/CV_RostamiSalim.pdf": "/static/media/CV_RostamiSalim.5c67d87f34dc583820c9.pdf",
     "static/media/salim.png": "/static/media/salim.08674df2198487cfba16.png",
     "static/media/logoSalimW.png": "/static/media/logoSalimW.e021d18f40dae448c7ee.png",
     "index.html": "/index.html",
     "static/media/close.svg": "/static/media/close.a591c5268e7cbcfeb569c6afea5745fc.svg",
     "static/media/open.svg": "/static/media/open.e6bd41ec79183186fdb132e92b58c1de.svg",
     "main.ebef54c6.css.map": "/static/css/main.ebef54c6.css.map",
-    "main.f050f4bc.js.map": "/static/js/main.f050f4bc.js.map"
+    "main.1b94e454.js.map": "/static/js/main.1b94e454.js.map"
   },
   "entrypoints": [
     "static/css/main.ebef54c6.css",
-    "static/js/main.f050f4bc.js"
+    "static/js/main.1b94e454.js"
   ]
 }
